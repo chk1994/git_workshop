@@ -1,0 +1,24 @@
+git init
+	Initialise new respository
+
+ls -a
+
+git add
+	working to staging
+	git add advay.txt
+
+git commit
+	staging to repository
+	git commit -m "changes"
+	
+git log/git log --oneline
+
+git status
+	nothing to commit/changes to commit within working directories
+	need to save
+
+git diff
+	difference between working and staging
+
+git clone
+	git clone url
