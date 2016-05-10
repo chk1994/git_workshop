@@ -22,3 +22,8 @@ git diff
 
 git clone
 	git clone url
+
+git push origin master
+	push back online
+
+git pull
